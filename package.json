@@ -2,21 +2,16 @@
   "name": "selector",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jason-mai318.github.io/selector/",
   "dependencies": {
-<<<<<<< HEAD
     "gh-pages": "^2.0.1",
-=======
->>>>>>> 82fde9d888dcba830f4334033a1b3194ae6e5867
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
   "scripts": {
-<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-=======
->>>>>>> 82fde9d888dcba830f4334033a1b3194ae6e5867
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
