@@ -2,7 +2,6 @@
   "name": "selector",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jason-mai318.github.io/selector/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
